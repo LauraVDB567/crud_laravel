@@ -1,0 +1,36 @@
+[
+   {"tipo":"Saco",
+    "talla":"M",
+    "color":"Negro",
+    "cantidad": "12",
+    "costo": "45.000"
+   },
+
+  {"tipo":"Jardinera",
+   "talla":"XL",
+   "color":"Azul",
+   "cantidad": "23",
+   "costo": "44.000"
+  },
+
+  {"tipo":"Zapatos Diario",
+  "talla":"34-41",
+  "color":"Negros",
+  "cantidad": "30",
+  "costo": "45.000"
+ },
+
+ {"tipo":"Zapatos Deportivos",
+ "talla":"34-41",
+ "color":"Blancos",
+ "cantidad": "33",
+ "costo": "47.000"
+},
+
+{"tipo":"Medias",
+ "talla":"8,12,18",
+ "color":"Azules-Blancas",
+ "cantidad": "25",
+ "costo": "15.000"
+}
+]
